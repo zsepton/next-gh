@@ -5,7 +5,7 @@ const nextConfig = {
         loader: "akamai",
         path: "",
       },
-    assetPrefix: "/",  
+    assetPrefix: "/next-gh",  
 };
 
 export default nextConfig;
